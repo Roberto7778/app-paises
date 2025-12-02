@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/app-paises/static/css/main.7cb0b0c8.css",
+    "main.js": "/app-paises/static/js/main.cdc23568.js",
+    "static/js/453.647bd895.chunk.js": "/app-paises/static/js/453.647bd895.chunk.js",
+    "index.html": "/app-paises/index.html",
+    "main.7cb0b0c8.css.map": "/app-paises/static/css/main.7cb0b0c8.css.map",
+    "main.cdc23568.js.map": "/app-paises/static/js/main.cdc23568.js.map",
+    "453.647bd895.chunk.js.map": "/app-paises/static/js/453.647bd895.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7cb0b0c8.css",
+    "static/js/main.cdc23568.js"
+  ]
+}
